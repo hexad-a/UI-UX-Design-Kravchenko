@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 96 96" role="img" aria-label="Focusly">
+  <circle cx="48" cy="48" r="34" fill="none" stroke="#0F3D4C" stroke-width="10" stroke-linecap="round"
+          stroke-dasharray="160 54" transform="rotate(-60 48 48)"/>
+  <circle cx="48" cy="48" r="12" fill="#F59E0B"/>
+</svg>
